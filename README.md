@@ -8,5 +8,13 @@ Face detection is the process of identifying human faces in images or video stre
 - Face tracking
 - AR filters and security applications
 
+This project uses **MediaPipe's face detection solution**, which is optimized for real-time performance.
+
+#  How It Works
+
+1. Captures video from your webcam
+2. Processes each frame with MediaPipe's face detector
+3. Draws a rectangle around each detected face
+
 
 
