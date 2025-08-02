@@ -17,5 +17,5 @@ This project uses **MediaPipe's face detection solution**, which is optimized fo
 3. Draws a rectangle around each detected face
 
 #  Dependencies
-
+       pip install opencv-python mediapipe
 
