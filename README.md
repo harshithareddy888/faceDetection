@@ -16,5 +16,6 @@ This project uses **MediaPipe's face detection solution**, which is optimized fo
 2. Processes each frame with MediaPipe's face detector
 3. Draws a rectangle around each detected face
 
+#  Dependencies
 
 
